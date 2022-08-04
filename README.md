@@ -63,7 +63,7 @@ Please checkout [this document](/resources/team_member_checklist.md).
 |                  |                                                                                            |Tarun Mamidi      |
 |9:30 AM – 10:00 AM|Speed Networking                                                                            |Shaurita Hutchins |
 |10 AM – until  |Teams will move to break-out rooms and work on their projects. Office hours will also start.|                  |
-|2 PM – 3 PM       |Computational Genomics & Data Science Office Hours                                          |Angelina Uno-Antonison |
+|12:30 PM – 1:30 PM       |Computational Genomics & Data Science Office Hours                                          |Angelina Uno-Antonison |
 |2 PM – 3 PM       |Computational Genomics & Data Science Office Hours                                          |Dr. Mana Gajapathy|
 |5 PM           |Teams check in with organizers & mentors to discuss progress                                |                  |
 |6 PM – until      |Teams return to break out rooms to hack omics                                               |                  |
