@@ -41,3 +41,45 @@ Specifically, you can get access to [Datacamp](https://www.datacamp.com/github-s
     - A web markdown editor - https://markdown-it.github.io/
     - A markdown cheatsheet - https://www.markdownguide.org/cheat-sheet/
 - [Introduction to Unix](https://bioinformatics-core-shared-training.github.io/shell-novice/)
+
+## More Awesome Stuff
+
+### Helpful Articles
+
+- [Ten Simple Rules for Using Public Data for Your Research](https://github.com/u-brite/team-leaders-2022/blob/main/resources/ten-simple-rules-for-using-public-data-for-your-research.pdf.pdf)
+- [Good enough practices in scientific computing](https://github.com/u-brite/team-leaders-2022/blob/main/resources/good-enough-practices-in-scientific-computing.pdf)
+- [Ten simple rules for biologists learning to program](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871)
+- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+
+### Reproducible Research
+
+- [A Beginner's Guide to Conducting Reproducible Research](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.1801)
+
+### GitHub Profiles
+
+- [Awesome GitHub Profile Readmes](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+### Project Documentation
+
+- [How to document your project on GitHub?](https://taimoorsattar.com/blogs/document-your-repository-in-github)
+- [Awesome GitHub Readmes](https://github.com/matiassingers/awesome-readme)
+
+### Cheatsheets
+ 
+ - [Python Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
+ - [R & RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+ - [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+ ### Awesome Lists
+
+ Explore these lists of awesomeness.
+
+ - [Awesome RShiny](https://grabear.github.io/awesome-rshiny/)  
+ - [Awesome Data Science](https://awesomerank.github.io/lists/bulutyazilim/awesome-datascience.html)  
+ - [Awesome Dataviz](https://github.com/javierluraschi/awesome-dataviz)  
+ - [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+ 
+### Successful Hackathon Projects
+
+ - [Development of An Individualized Risk Prediction Model for COVID-19 Using Electronic Health Record Data](https://www.frontiersin.org/articles/10.3389/fdata.2021.675882/full) - @u-brite
+ - [PAGER-CoV: a comprehensive collection of pathways, annotated gene-lists and gene signatures for coronavirus disease studies](https://academic.oup.com/nar/article/49/D1/D589/6007666?login=true) - @u-brite 
