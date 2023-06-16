@@ -2,6 +2,8 @@
 
 A repository with details related to our hackathon including a list of projects, resources, and our goals.
 
+View [outcomes](#hackathon-outcomes) including any resulting preprints or publications from this hackathon.
+
 
 ## Background
 
@@ -18,12 +20,19 @@ The theme for Hackin’ Omics is: multi-omics downstream analysis for discovery 
 - Allow researchers to advance existing multi-omics projects and analyze their own datasets.
 - Strengthen the professional development of participants by providing opportunities for training and networking.
 
-
 ## Getting Started
 
 1. Create a GitHub account if you don't have one and update your registration information at https://airtable.com/shr3eEleXAe0ppYes.
 2. Log into slack using the link that was emailed to you. Introduce yourself in the `#general` channel and find your team's channel.
 3. Get to know your teammates and others by interacting in the `#music`, `#random`, and `#pet-photos` channels.
+
+### Pre-Hackathon Workshops
+
+Attend pre-hackathon workshops or watch recordings to get up to speed.
+
+- Information & Network Session: https://www.youtube.com/watch?v=Tt_khaR2VaM
+- Computing Resources Workshop: https://www.youtube.com/watch?v=VRwqht_idMs
+- U-BRITE Bootcamp: https://github.com/u-brite/u-brite-bootcamp
 
 ### Team Leader Checklist
  
@@ -79,20 +88,22 @@ Please checkout [this document](/resources/team_member_checklist.md).
 |6 PM – midnight|Teams work in breakout rooms until the deadline.                                   |               |
 
 
-## Website
+## Social Media
+
+### Website
 
 Check out our website at http://hackathon.ubrite.org/.
 
-## Twitter
+### Twitter
 
 Feel free to use the [#HackinOmics22](https://twitter.com/hashtag/HackinOmics22) hashtag on Twitter and tag [@club_uab](https://twitter.com/club_uab) or [@InformaticsUAB](https://twitter.com/InformaticsUAB) in your tweets!
 
-## Workshops
+## Hackathon Outcomes
 
-- Information & Network Session: https://www.youtube.com/watch?v=Tt_khaR2VaM
-- Computing Resources Workshop: https://www.youtube.com/watch?v=VRwqht_idMs
-- U-BRITE Bootcamp: https://github.com/u-brite/u-brite-bootcamp
+- ImageNomer is now available as a preprint! | [Preprint](https://www.techrxiv.org/articles/preprint/ImageNomer_developing_an_fMRI_and_omics_visualization_tool_to_detect_racial_bias_in_functional_connectivity/21992006) | [GitHub](https://github.com/TulaneMBB/ImageNomer)
 
 ## Questions, Concerns, or Feedback?
 
 Please use the [discussions](https://github.com/u-brite/hackin-omics-2022/discussions) on this repository or visit the `#help` or `#general` channels on slack.
+
+
