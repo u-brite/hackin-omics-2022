@@ -92,7 +92,7 @@ Please checkout [this document](/resources/team_member_checklist.md).
 
 ### Website
 
-Check out our website at http://hackathon.ubrite.org/.
+Check out our website at [http://hackathon.ubrite.org/](https://hackathon.ubrite.org/hackathon-2022/).
 
 ### Twitter
 
